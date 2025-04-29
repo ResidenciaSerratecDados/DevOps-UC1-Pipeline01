@@ -8,5 +8,6 @@ try:
     print("Validação concluída: dados OK!")  
 except Exception as e:  
     print(f"Erro: {e}")  
-    exit(1)  # Falha no pipeline
+    exit(1)  
+    # Falha no pipeline
     
