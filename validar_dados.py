@@ -9,5 +9,5 @@ try:
 except Exception as e:  
     print(f"Erro: {e}")  
     exit(1)  
-    # Falha no pipeline
+    # Falha no pipeline para terminar o processo
     
